@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_cool_deploy_and_long_one_to_gh_pages/static/css/main.1dea58f6.css",
+    "main.js": "/react_cool_deploy_and_long_one_to_gh_pages/static/js/main.c6f7da9d.js",
+    "index.html": "/react_cool_deploy_and_long_one_to_gh_pages/index.html",
+    "main.1dea58f6.css.map": "/react_cool_deploy_and_long_one_to_gh_pages/static/css/main.1dea58f6.css.map",
+    "main.c6f7da9d.js.map": "/react_cool_deploy_and_long_one_to_gh_pages/static/js/main.c6f7da9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dea58f6.css",
+    "static/js/main.c6f7da9d.js"
+  ]
+}
